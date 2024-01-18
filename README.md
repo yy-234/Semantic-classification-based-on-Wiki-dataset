@@ -46,7 +46,7 @@ FastText|92.23%|bow+bigram+trigram， 效果出奇的好
 DPCNN|91.25%|深层金字塔CNN
 Transformer|89.91%|效果较差
 bert|94.83%|bert + fc  
-ERNIE|94.61%|比bert略差(说好的中文碾压bert呢)  
+ERNIE|94.61%|比bert略差
 
 
 ## 使用说明
